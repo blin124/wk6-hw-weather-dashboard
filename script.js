@@ -17,9 +17,9 @@ $("#search").on("click", function() {
         searchLocation(cityLocation);
         getForecast(cityLocation);
 
-        localStorage.setItem() {
+//         localStorage.setItem() {
             
-        }
+//         }
 
     }else {
         $("#input-city").html("Please enter a city");
